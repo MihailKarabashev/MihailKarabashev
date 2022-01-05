@@ -4,10 +4,9 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mihail</h1>
 </p>
 
-
-   
 <!-- Statistics -->
-  <img height="160" align="left" src="https://github-readme-stats.vercel.app/api?username=MihailKarabashev&count_private=true&true&hide=issues&show_icons=true" />
+  <img height="160"  src="https://github-readme-stats.vercel.app/api?username=MihailKarabashev&count_private=true&true&hide=issues&show_icons=true" /> 
+  <br>
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihailKarabashev&layout=compact" />
 <!-- Statistics -->
 
