@@ -5,7 +5,7 @@
 
 <p>
 <a align="left" href="https://github.com/MihailKarabashev">
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MihailKarabashev&show_icons=true&theme=react&include_all_commits=true&count_private=true "/>
+  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MihailKarabashev&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
   <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihailKarabashev&layout=compact&langs_count=8&hide=css,html,r&theme=react "/>
 </a>
 </p>
@@ -34,20 +34,21 @@
 ### 🎓 &nbsp;Passed Courses and their Certificates
 
 
-| **Courses**                                                                                             | **Certificates**                                                           |
-| :------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------- |
-| <a href="https://softuni.bg/certificates/details/77159/5e7129e4" > Programming Basics with C# </a>      | <a href="https://softuni.bg/certificates/details/77159/5e7129e4"> 👉📜✔️</a>  |
-| <a href="https://softuni.bg/certificates/details/86075/1b990e71"> C# Fundamentals </a>                  | <a href="https://softuni.bg/certificates/details/86075/1b990e71"> 👉📜✔️</a>  |
-| <a href="https://softuni.bg/certificates/details/90228/fdca77ac"> C# Advanced </a>                      | <a href="https://softuni.bg/certificates/details/90228/fdca77ac"> 👉📜✔️</a>  |
-| <a href="https://softuni.bg/certificates/details/95704/6fa188a5"> C# OOP </a>                           | <a href="https://softuni.bg/certificates/details/95704/6fa188a5"> 👉📜✔️</a>  |
-| <a href="https://softuni.bg/certificates/details/97892/b60d450e"> Databases Basics - MS SQL Server </a> | <a href="https://softuni.bg/certificates/details/97892/b60d450e"> 👉📜✔️</a>  |
-| <a href="https://softuni.bg/certificates/details/102617/a420ec57"> Entity Framework Core </a>           | <a href="https://softuni.bg/certificates/details/102617/a420ec57"> 👉📜✔️</a> |
-| <a href="https://softuni.bg/certificates/details/109430/906e1087"> C# Web Basics </a>                   | <a href="https://softuni.bg/certificates/details/109430/906e1087"> 👉📜✔️</a> |
-| <a href="https://softuni.bg/certificates/details/114704/ab2dc577"> JS Advanced </a>                     | <a href="https://softuni.bg/certificates/details/114704/ab2dc577"> 👉📜✔️</a> |
-| <a href="https://softuni.bg/certificates/details/120811/1feed75e"> JS Applications </a>                 | <a href="https://softuni.bg/certificates/details/120811/1feed75e"> 👉📜✔️</a> |
-| <a href="https://softuni.bg/certificates/details/113401/8b94f947"> ASP.NET Core </a>                    | <a href=""> 👉📜✔️</a>                                                        |
-| <a href="https://softuni.bg/certificates/details/140743/1648bdc5"> ReactJS </a>                         | <a href="https://softuni.bg/certificates/details/142267/41f672d0"> 👉📜✔️</a> |
-| Diploma - C# Web Developer                                                                              | Soon™ 👨‍💻                                                                    |
+| **Courses**                                                                                             | **Certificates**                                                                           |
+| :------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------- |
+| <a href="https://softuni.bg/certificates/details/77159/5e7129e4" > Programming Basics with C# </a>      | <a href="https://softuni.bg/certificates/details/77159/5e7129e4"> 👉📜✔️</a>                  |
+| <a href="https://softuni.bg/certificates/details/86075/1b990e71"> C# Fundamentals </a>                  | <a href="https://softuni.bg/certificates/details/86075/1b990e71"> 👉📜✔️</a>                  |
+| <a href="https://softuni.bg/certificates/details/90228/fdca77ac"> C# Advanced </a>                      | <a href="https://softuni.bg/certificates/details/90228/fdca77ac"> 👉📜✔️</a>                  |
+| <a href="https://softuni.bg/certificates/details/95704/6fa188a5"> C# OOP </a>                           | <a href="https://softuni.bg/certificates/details/95704/6fa188a5"> 👉📜✔️</a>                  |
+| <a href="https://softuni.bg/certificates/details/97892/b60d450e"> Databases Basics - MS SQL Server </a> | <a href="https://softuni.bg/certificates/details/97892/b60d450e"> 👉📜✔️</a>                  |
+| <a href="https://softuni.bg/certificates/details/102617/a420ec57"> Entity Framework Core </a>           | <a href="https://softuni.bg/certificates/details/102617/a420ec57"> 👉📜✔️</a>                 |
+| <a href="https://softuni.bg/certificates/details/109430/906e1087"> C# Web Basics </a>                   | <a href="https://softuni.bg/certificates/details/109430/906e1087"> 👉📜✔️</a>                 |
+| <a href="https://softuni.bg/certificates/details/114704/ab2dc577"> JS Advanced </a>                     | <a href="https://softuni.bg/certificates/details/114704/ab2dc577"> 👉📜✔️</a>                 |
+| <a href="https://softuni.bg/certificates/details/120811/1feed75e"> JS Applications </a>                 | <a href="https://softuni.bg/certificates/details/120811/1feed75e"> 👉📜✔️</a>                 |
+| <a href="https://softuni.bg/certificates/details/113401/8b94f947"> ASP.NET Core </a>                    | <a href="https://softuni.bg/certificates/details/113401/8b94f947"> 👉📜✔️</a>                 |
+| <a href="https://softuni.bg/certificates/details/140743/1648bdc5"> ReactJS </a>                         | <a href="https://softuni.bg/certificates/details/140743/1648bdc5"> 👉📜✔️</a>                 |
+| <a href="https://softuni.bg/certificates/details/142267/41f672d0"> Diploma - C# Web Developer </a>      | <a href="https://softuni.bg/certificates/details/142267/41f672d0" target="_blank"> 👉📜✔️</a> |
+
 
 
 ### 🤝🏻  &nbsp;Connect with Me
@@ -56,4 +57,3 @@
 <a href="mailto:mihailkarabashev@gmail.com"><img src="https://img.shields.io/badge/-mihailkarabashev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/mihail.karabashev/"><img src="https://img.shields.io/badge/-Mihail%20Karabashev-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 <!--  <a href="https://www.reddit.com/user/TerterBG"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/></a> -->
-
