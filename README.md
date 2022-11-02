@@ -6,7 +6,7 @@
 <p>
 <a align="left" href="https://github.com/MihailKarabashev">
   <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MihailKarabashev&show_icons=true&theme=react&include_all_commits=true&count_private=false"/>
-  <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MihailKarabashev&layout=compact&langs_count=8&hide=css,html,r&theme=react "/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MihailKarabashev&layout=compact&langs_count=8&hide=css,html,r&theme=react"/>
 </a>
 </p>
 
