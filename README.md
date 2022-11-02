@@ -46,7 +46,7 @@
 | <a href="https://softuni.bg/certificates/details/114704/ab2dc577"> JS Advanced </a>                     | <a href="https://softuni.bg/certificates/details/114704/ab2dc577"> 👉📜✔️</a> |
 | <a href="https://softuni.bg/certificates/details/120811/1feed75e"> JS Applications </a>                 | <a href="https://softuni.bg/certificates/details/120811/1feed75e"> 👉📜✔️</a> |
 | <a href="https://softuni.bg/certificates/details/113401/8b94f947"> ASP.NET Core </a>                    | <a href=""> 👉📜✔️</a>                                                        |
-| <a href=""> ReactJS </a>                                                                                | <a href="https://softuni.bg/certificates/details/122134/8b36b703"> 👉📜✔️</a> |
+| <a href="https://softuni.bg/certificates/details/140743/1648bdc5"> ReactJS </a>                         | <a href="https://softuni.bg/certificates/details/142267/41f672d0"> 👉📜✔️</a> |
 | Diploma - C# Web Developer                                                                              | Soon™ 👨‍💻                                                                    |
 
 
@@ -56,3 +56,4 @@
 <a href="mailto:mihailkarabashev@gmail.com"><img src="https://img.shields.io/badge/-mihailkarabashev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://www.facebook.com/mihail.karabashev/"><img src="https://img.shields.io/badge/-Mihail%20Karabashev-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 <!--  <a href="https://www.reddit.com/user/TerterBG"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=flat&logo=reddit&logoColor=white"/></a> -->
+
